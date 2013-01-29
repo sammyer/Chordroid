@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chordroid</string>
+    <string name="about"><![CDATA[Chordroid uses your phone\'s microphone to listen to live music and automatically detect what chords are being played.  It can distinguish five types of chord - major, minor, dimished, augmented, and suspended.\n\n
+
+Three chords are displayed in the view.  In the middle is the current chord detected.  To the left is the previous chord detected, and to the right is the predicted next chord.  Beneath each chord is a bar which shows how confident the detector is.\n\n
+
+Chordroid was developed by Sam Myer at the Center for Digital Music at Queen Mary University, with help and direction from Dawn Black, based on research by Matthias Mauch and Adam Stark.\n\n
+
+We would love to hear about how you\'re using this app, what you love about it, and what we\'re totally messing up.  Email your questions and comments to mail@frozencavemanmedia.com]]></string>
+</resources>
