@@ -5,3 +5,5 @@ Chordroid is a simple, free app that uses your phone's microphone to listen to l
 Three chords are displayed in the view.  In the middle is the current chord detected.  To the left is the previous chord detected, and to the right is the predicted next chord.  Beneath each chord is a bar which shows how confident the detector is.
 
 Chordroid is written in Java using the IntelliJ Idea IDE.
+
+The app can be found on the google Play store at https://play.google.com/store/apps/details?id=com.chordroid
